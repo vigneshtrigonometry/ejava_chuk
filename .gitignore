@@ -1,0 +1,8 @@
+build/
+dist/
+bower_components/
+/WebApplication1/nbproject/private/
+/week1jsf/nbproject/private/
+/week02/nbproject/private/
+
+/week04/nbproject/private/
